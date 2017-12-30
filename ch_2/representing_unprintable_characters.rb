@@ -28,5 +28,6 @@ open('smiley.html', 'wb') do |f|
     f << "\xe2\x98\xBA"
 end
 
-# Ayy lmao: "\xe2\x98\xBA"
+# Ayy lmao: "\xe2\x98\xBA" is a smiley face
+
 
